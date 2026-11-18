@@ -1,5 +1,13 @@
 # MurshidST
+Project Contributors
 
+This project was developed by:
+
+Shoog Algasim
+
+Tala Alshowiman
+
+As part of the LLM Application Engineering (SDA-AIE-213) training program.
 ## Project Overview
 
 **Murshid Mini** is an educational LLM application engineering project developed as part of the **LLM Application Engineering (SDA-AIE-213)** training program, with acknowledgment to **SDAIA Academy** and the **Data and Artificial Intelligence Center of Excellence (DAICO)** at **King Saud University (KSU)**.
