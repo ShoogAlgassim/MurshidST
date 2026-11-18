@@ -111,7 +111,7 @@ The project also exported its evaluation results and generated reports.
 
 ## 5. How to Run the Project
 
-1. Open `notebooks/murshid.ipynb` in Google Colab.
+1. Open `notebooks/MurshidST.ipynb` in Google Colab.
 2. Select a Python 3 runtime using CPU.
 3. Run all 14 code cells sequentially.
 4. Review the outputs from each lab.
