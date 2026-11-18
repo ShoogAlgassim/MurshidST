@@ -1,11 +1,11 @@
 # MurshidST
-Project Contributors
+## Project Contributors
 
-This project was developed by:
+**This project was developed by:**
 
-Shoog Algasim
+**Shoog Algasim**
 
-Tala Alshowiman
+**Tala Alshowiman**
 
 As part of the LLM Application Engineering (SDA-AIE-213) training program.
 ## Project Overview
