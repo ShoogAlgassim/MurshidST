@@ -148,7 +148,7 @@ Special thanks to **SDAIA Academy**, **DAICO**, and **Meaad Al-Marri** for their
 - **SDAIA Academy:** https://github.com/SDAIAAcademy
 - **Original Course Repository:** https://github.com/almiyead-rgb/murshid-llm-application-engineering-sda-aie-213
 
-This repository documents my individual implementation and learning outcomes based on the training materials.
+This repository documents our implementation and learning outcomes based on the training materials.
 
 ## Tags
 
