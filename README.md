@@ -59,6 +59,22 @@ The project was developed across four labs:
 
 The core project does not require a paid API key or GPU.
 
+
+## Project Files
+
+### Core Project
+- [MurshidST Notebook](notebooks/MurshidST.ipynb)
+- [Technical Documentation](docs/project-notes.md)
+- [Final Evaluation Report](results/day4_lab/final_report.json)
+- [Complete Submission ZIP](murshid_submission.zip)
+
+### Additional Homework
+- [Day 1 — Real Model](homework/day1_real_model_Shoog&Tala.ipynb)
+- [Day 2 — Tool Validation](homework/day2_tools_Shoog&Tala.ipynb)
+- [Day 3 — Error Handling](homework/day3_errors_Shoog&Tala.ipynb)
+- [Day 4 — Model Evaluation](homework/day4_evaluation_Shoog&Tala.ipynb)
+
+
 ## Evaluation Results
 
 The final evaluation produced the following results:
